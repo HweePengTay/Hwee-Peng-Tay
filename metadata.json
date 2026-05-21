@@ -1,0 +1,6 @@
+{
+  "name": "SpellBuddy",
+  "description": "An interactive bento-grid spelling quiz and tracker for kids and parents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
